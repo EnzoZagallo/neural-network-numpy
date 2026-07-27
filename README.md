@@ -1,4 +1,4 @@
-# Neural Network from Scratch with NumPy
+# Neural Network from scratch with NumPy
 
 A fully connected feed-forward neural network built from the ground up using only NumPy. No PyTorch, no TensorFlow, no high-level frameworks. Every component, from weight initialization to backpropagation, is implemented manually.
 
